@@ -1,4 +1,4 @@
-# Bash Glossary
+# Bash Glossary by Harry
 
 This is a non-exhaustive list of common, helpful bash commands and special characters
 
